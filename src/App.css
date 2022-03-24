@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+body {
+  margin-top: 50px;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+body {
+  background-color: rgb(25, 25, 25);
+  color: white;
+}
+
+
